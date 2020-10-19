@@ -1,0 +1,10 @@
+﻿  DES.c
+  main.c
+  modes.c
+C:\Users\Ari\source\repos\DES\DES\modes.c(40,11): warning C4098: 'CBC': 'void' function returning a value
+C:\Users\Ari\source\repos\DES\DES\modes.c(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ari\source\repos\DES\DES\modes.c(186,11): warning C4098: 'OFB': 'void' function returning a value
+C:\Users\Ari\source\repos\DES\DES\modes.c(308,11): warning C4098: 'CFB': 'void' function returning a value
+C:\Users\Ari\source\repos\DES\DES\modes.c(445,11): warning C4098: 'CTR': 'void' function returning a value
+  Generating Code...
+  DES.vcxproj -> C:\Users\Ari\source\repos\DES\Debug\DES.exe
